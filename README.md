@@ -25,3 +25,5 @@ Documentation: https://beetlemoon.gitbook.io/beetle
 ![未标题-4](https://user-images.githubusercontent.com/105938431/169576856-46d4b35a-fbd4-4671-af5c-3c02af663383.png)
 
 ![LOGO](https://user-images.githubusercontent.com/105938431/169654649-4a70d24e-56a5-4dcb-bb81-e756d4e3e7f8.png)
+![BETlogo (2)](https://user-images.githubusercontent.com/105938431/173327641-1084c59e-cf45-4b1e-b4f3-8dc685f0d1bf.png)
+
