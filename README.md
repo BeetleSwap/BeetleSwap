@@ -1,4 +1,4 @@
-![Beetle Moon](https://user-images.githubusercontent.com/105938431/179468481-48d5a8ec-d103-4d4f-9321-f4057f295a64.jpg)
+![Beetle Moon](https://github.com/BeetleSwap/LOGO/blob/main/Beetle%20logo/Beetle%20Moon.jpg)
 
 ### Beetle is a revolutionary and community-driven blockchain ecosystem with NFT technology at its core.
 ### BET tokens have a 7% transaction tax.
