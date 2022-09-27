@@ -6,3 +6,4 @@
 ### 1% will go to the liquidity pool and 1% will go to our marketing and development wallets.
 
 ### [Website](https://www.beetle.wiki) | [Twitter](https://twitter.com/Beetle_Swap) | [Telegram](http://t.me/BeetleMoon) | [Email](admin@beetle.wiki)
+![BETlogo](https://user-images.githubusercontent.com/105938431/192532373-fb35d227-e1ab-43ef-9b74-310020a37ebe.png)
